@@ -3,6 +3,9 @@
 
 ---
 
+[1 Corinthians 13:13 KJV][]
+And now abideth faith, hope, charity, these three; but the greatest of these is charity.
+
 [Philippians 2:12 KJV][]
 Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling.
 
@@ -37,13 +40,14 @@ But now you are free from the power of sin and have become slaves of God. Now yo
 
 
 
-[Philippians 2:12 KJV]: https://www.bible.com/bible/1/PHP.2.12.KJV
-[John 14:26 KJV]: https://www.bible.com/bible/1/JHN.14.26.KJV
-[Hebrews 10:26 NLT]: https://my.bible.com/bible/116/HEB.10.26.NLT
+[1 Corinthians 13:13 KJV]: https://www.bible.com/bible/1/1CO.13.13.KJV
 [1 Corinthians 6:9-10]: https://my.bible.com/bible/116/1CO.6.9-10.NLT
-[Galatians 5:19-21 NLT]: https://my.bible.com/bible/116/GAL.5.19-21.NLT
-[Revelation 21:8 NLT]: https://my.bible.com/bible/116/REV.21.8.NLT
-[Matthew 6:14 KJV]: https://my.bible.com/bible/116/MAT.6.14.NLT
 [1 John 3:8-9]: https://my.bible.com/bible/116/1JN.3.8-9
+[Galatians 5:19-21 NLT]: https://my.bible.com/bible/116/GAL.5.19-21.NLT
+[Hebrews 10:26 NLT]: https://my.bible.com/bible/116/HEB.10.26.NLT
 [Isaiah 59:1-2]: https://my.bible.com/bible/116/ISA.59.1-2
+[John 14:26 KJV]: https://www.bible.com/bible/1/JHN.14.26.KJV
+[Matthew 6:14 KJV]: https://my.bible.com/bible/116/MAT.6.14.NLT
+[Philippians 2:12 KJV]: https://www.bible.com/bible/1/PHP.2.12.KJV
+[Revelation 21:8 NLT]: https://my.bible.com/bible/116/REV.21.8.NLT
 [Romans 6:22-23]: https://my.bible.com/bible/116/ROM.6.22-23
